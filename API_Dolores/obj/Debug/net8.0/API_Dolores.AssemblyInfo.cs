@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_Dolores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78c6637957e6f52c31874557a4c4f3f63561e2dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c2c4d8f124e014abcefd195f038c1484ba0538e")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_Dolores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_Dolores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

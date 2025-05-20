@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+using API_Dolores.Models;
 
 namespace API_Dolores.Data
 {
@@ -26,5 +27,8 @@ namespace API_Dolores.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) 
         {
         }
+
+        public DbSet<API_Dolores.Models.Task> Task { get; set; } = default!;
+        public DbSet<API_Dolores.Models.Task> Tasks { get; set; }
     }
 }
