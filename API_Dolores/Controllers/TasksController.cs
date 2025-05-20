@@ -11,6 +11,7 @@ using Tasked = API_Dolores.Models.Task;
 
 
 // Todo: Rajouter Service pour pouvoir changer en code métier et réutiliser et découpler le code métier du code technique
+// Todo: Faire du Linq pour pouvoir filtrer les données au besoin
 
 namespace API_Dolores.Controllers
 {
